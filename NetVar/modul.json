@@ -2,7 +2,7 @@
     "id": "{D61CBDCD-34A6-45B0-950D-1DCF9FC3E581}",
     "name": "NetVar",
     "type": 3,
-    "vendor": "",
+    "vendor": "Codesys",
     "aliases": [ ],  
     "parentRequirements": [],
     "childRequirements": [],
