@@ -3,13 +3,9 @@
     "name": "NetVar",
     "type": 3,
     "vendor": "",
-    "aliases":
-    [
-        "ReadBool",
-        "WriteBool"
-    ],  
+    "aliases": [ ],  
     "parentRequirements": [],
     "childRequirements": [],
     "implemented": [],
-    "prefix": "ABC"
+    "prefix": ""
 }
