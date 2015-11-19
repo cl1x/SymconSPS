@@ -6,8 +6,7 @@
 		
 		public function Create() {
 			parent::Create();
-		 	$this->RegisterPropertyInteger("Port", 0);
-			$this->RegisterPropertyString("IP", "xxx.xxx.xxx.xxx");
+		 	$this->RegisterPropertyInteger("SocketID", 0);
 		 }
 
 
