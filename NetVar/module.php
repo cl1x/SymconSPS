@@ -7,6 +7,10 @@
 		public function Create() {
 			parent::Create();
 		 	$this->RegisterPropertyInteger("SocketID", 0);
+		 	$this->RegisterPropertyInteger("COBID", 0);
+		 	$this->RegisterPropertyInteger("VarNR", 0);
+		 	$this->RegisterPropertyInteger("VarType", 0);
+		 	
 		 }
 
 
