@@ -1,8 +1,15 @@
 {
     "elements":
     [
-         "type": "SelectInstance", "name": "UDPSocketID", "caption": "Target"
-         "type": "ValidationTextBox", "name": "IP", "caption": "Host"
+        "type": "SelectInstance", "name": "UDPSocketID", "caption": "Target"
+        "type": "ValidationTextBox", "name": "IP", "caption": "Host"
+    ],
+    "actions":
+    [
+      
+    ],
+    "status":
+    [
+       
     ]
-    
 }
