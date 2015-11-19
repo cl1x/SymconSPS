@@ -4,9 +4,19 @@
       
         { "type": "SelectInstance", "name": "SocketID", "caption": "UDP Socket" },
         { "type": "NumberSpinner", "name": "COBID", "caption": "Cob-ID" },
-        { "type": "NumberSpinner", "name": "VarNR", "caption": "Variablen Nummer" }
+        { "type": "NumberSpinner", "name": "VarNR", "caption": "Variablen Nummer" },
         
       
+        { "name": "VarType", "type": "Select", "caption": "Variablen Art", 
+			"options": [
+				{ "label": "Bool", "value": 0 }, 
+				{ "label": "Signed Integer", "value": 1 }, 
+				{ "label": "Unsigned Integer", "value": 2 }, 
+				{ "label": "Real", "value": 3 }
+			]
+		}
+        
+       
       
         
     ]
