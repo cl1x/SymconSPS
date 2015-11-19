@@ -9,12 +9,7 @@
         { "type": "NumberSpinner", "name": "VarNR", "caption": "Variablen Nummer" }
       
       
-        { "type": "Select", "name": "VarType", "caption": "Variablen Art","options": [
-        { "label": "Bool", "value": 0 },
-        { "label": "Signed Integer", "value": 1 },
-        { "label": "Unsigned Integer", "value": 2 },
-        { "label": "Real", "value": 3 }
-        ]}
+        
         
     ]
 }
