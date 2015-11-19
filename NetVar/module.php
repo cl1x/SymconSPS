@@ -29,7 +29,7 @@
 				case 0:
        					break;
 				case 1:
-       					$variablenID = $this->RegisterVariableBoolean($this->ReadPropertyString("VarName"), "NetVar");
+       					$variablenID = $this->RegisterVariableBoolean("NetVar", $this->ReadPropertyString("VarName"));
 					break;
 				case 2:
 					echo "i ist gleich 2";
