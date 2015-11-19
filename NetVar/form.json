@@ -7,10 +7,10 @@
         
         { "name": "VarType", "type": "Select", "caption": "Variablen Art", 
 			"options": [
-				{ "label": "Bool", "value": 0 }, 
-				{ "label": "Signed Integer", "value": 1 }, 
-				{ "label": "Unsigned Integer", "value": 2 }, 
-				{ "label": "Real", "value": 3 }
+				{ "label": "Bool", "value": 1 }, 
+				{ "label": "Signed Integer", "value": 2 }, 
+				{ "label": "Unsigned Integer", "value": 3 }, 
+				{ "label": "Real", "value": 4 }
 			]
 		}
         
