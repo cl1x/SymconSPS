@@ -32,7 +32,13 @@
        					$variablenID = $this->RegisterVariableBoolean("NetVar", $this->ReadPropertyString("VarName"));
 					break;
 				case 2:
-					echo "i ist gleich 2";
+					$variablenID = $this->RegisterVariableInteger("NetVar", $this->ReadPropertyString("VarName"));
+					break;
+				case 3:
+					$variablenID = $this->RegisterVariableInteger("NetVar", $this->ReadPropertyString("VarName"));
+					break;
+				case 4:
+					$variablenID = $this->RegisterVariableFloat("NetVar", $this->ReadPropertyString("VarName"));
 					break;
 				
 			}
