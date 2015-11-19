@@ -12,7 +12,7 @@
 				{ "label": "Unsigned Integer", "value": 3 }, 
 				{ "label": "Real", "value": 4 }
 			]
-		}
+		},
         
         { "type": "NumberSpinner", "name": "VarNR", "caption": "Variablen Nummer" },
         
