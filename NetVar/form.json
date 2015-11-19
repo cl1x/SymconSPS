@@ -16,6 +16,8 @@
         
         { "type": "NumberSpinner", "name": "VarNR", "caption": "Variablen Nummer" },
         
+        { "type": "ValidationTextBox", "name": "VarName", "caption": "Variablen Name" }
+        
       
         
         
