@@ -6,7 +6,7 @@
 		
 		public function Create() {
 			parent::Create();
-		 	$this->RegisterPropertyInteger("UDPSocketID", "");
+		 	$this->RegisterPropertyInteger("UDPSocketID", );
 			$this->RegisterPropertyString("IP", "xxx.xxx.xxx.xxx");
 		 }
 
